@@ -8,7 +8,7 @@ This project is a basic implementation of a blockchain-based Electronic Health R
 - View existing blocks
 - Testing Blockchain Immutability
 
-## Key Features
+## Key Features 
 
 - **Secure, Decentralized Storage**: Patient records are distributed across nodes, reducing risks of breaches and data loss.
 - **Immutable Records**: Each record is permanent and cannot be altered once added.
